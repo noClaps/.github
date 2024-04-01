@@ -20,7 +20,7 @@ Anyone caught breaking these rules will be given a warning and linked to this Co
 ## Moderators
 Moderators will be chosen by the owner of this repository. The current list of moderators is:
 
-- [noClaps (Owner)](https://github.io/noClaps)
+- [noClaps (Owner)](https://github.com/noClaps)
 
 ## Credits
 
